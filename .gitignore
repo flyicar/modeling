@@ -1,0 +1,4 @@
+/lab[0-9]/bin
+/lab[0-9]/obj
+/lab[0-9]/lab[0-9].layout
+/lab[0-9]/lab[0-9].depend
